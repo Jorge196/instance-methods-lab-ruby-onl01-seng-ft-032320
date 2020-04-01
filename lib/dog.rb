@@ -1,11 +1,15 @@
 class Dog
 end
 
-fido = Dog.new
 
-snoopy = Dog.new
 
 def bark
   puts "Woof!"
   end
-end 
+end
+
+fido = Dog.new
+fido.bark
+
+snoopy = Dog.new
+snoopy.bark 
