@@ -5,7 +5,7 @@ fido = Dog.new
 
 snoopy = Dog.new
 
-def bark 
+def bark
   puts "Woof!"
-  end 
+  end
 end 
