@@ -4,10 +4,10 @@ class Dog
   end
 end
 
+class Dog
+end
+
 def sit
-  puts "The Dog is sitting"
-
-  fido = Dog.new
-  fido.sit
-
+  puts "The Dog is sitting."
+end
 end
